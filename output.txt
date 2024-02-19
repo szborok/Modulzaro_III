@@ -1,0 +1,29 @@
+Panthera tigris Raj 6 100 nap
+Loxodonta Kavi 25 22 hónap
+Castor fiber Dániel 3 105 nap
+Phascolarctos cinereus Eukaliptusz 4 35 nap
+Gorilla gorilla Kumba 12 9 hónap
+Canis lupus familiaris Bella 3 63 nap
+Panthera pardus Zara 5 100 nap
+Canis lupus Luna 4 63 nap
+Ailuropoda melanoleuca Po 6 130 nap
+Panthera tigris tigris Hófehér 8 100 nap
+Mirounga Moby 10 11 hónap
+Oryctolagus cuniculus Bogyó 2 31 nap
+Equus ferus caballus Csikó 7 11 hónap
+Sus scrofa Gömbi 3 114 nap
+Cervidae Gombóc 5 240 nap
+Pongo Mango 9 9 hónap
+Cebidae Zöldi 5 140 nap
+Vicugna vicugna Valéria 4 330 nap
+Spheniscidae Penge 12 63 nap
+Macropodidae Hopp 6 30 nap
+Phocidae Csobbanó 6 11 hónap
+Formicidae Munkás 3 7 hét
+Delphinidae Flipper 15 11 hónap
+Phocidae Selma 8 11 hónap
+Cavia porcellus Röfögő 2 65 nap
+Vulpes vulpes Ravasz 3 52 nap
+Chiroptera Suttogó 10 40 nap
+Cheloniidae Koral 80 60 nap
+Gastropoda Lassú 1 2 hét

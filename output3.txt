@@ -1,0 +1,20 @@
+Serinus canaria Csivike 5 Sárga
+Corvus corone Fekete 15 Fekete
+Passeridae Pipi 2 Barna
+Sturnus vulgaris Csicsi 4 Fekete-fehér
+Phasianidae Fanni 8 Színes (zöld, barna, fekete)
+Columba livia Gombóc 6 Szürke
+Cacatuidae Kuki 20 Fehér
+Pelecanidae Peli 25 Rózsaszín, fehér, fekete
+Phasianidae Panni 12 Kék, zöld, arany
+Passeridae Viki 3 Barna
+Cacatuidae Kókuszi 15 Rózsaszín
+Serinus canaria Sunny 7 Narancssárga
+Turdidae Ricsi 4 Szürke
+Psittacidae Paprika 10 Piros, kék, sárga
+Ciconiidae Gigi 20 Fehér, fekete
+Corvidae Szépi 8 Fekete, kék, zöld
+Trochilidae Csupi 3 Színes (kék, zöld, piros)
+Phasianidae Fanni 6 Barna, szürke, fekete
+Passeridae Pingi 2 Kék, fekete
+Cuculidae Kuki 5 Barna, szürke, fekete
